@@ -1,11 +1,8 @@
-# WATER
-
-water sensing for urban horticulture
+# Water sensing for urban horticulture
 
 Water explorations for Microchallenges
 
 Hey!!
-
 Welcome to our WATER REPO!
 
 Here we will be updating our work for the Microchallenge´s...
@@ -29,6 +26,8 @@ Here is what we ended up with:
 
 
 ## THE SYSTEM
+
+![](https://i.imgur.com/W4kveCg.png)
 
 ![](https://i.imgur.com/m2M4n5X.jpg)
 
