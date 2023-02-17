@@ -1,6 +1,6 @@
 # WATER
 
-water semsing for urban horticulture
+water sensing for urban horticulture
 
 Water explorations for Microchallenges
 
