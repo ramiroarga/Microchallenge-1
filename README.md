@@ -188,3 +188,7 @@ https://github.com/sandeepmistry/node-flower-power
 
 ### Serial Communication between Arduino & Raspberry Pi
 https://roboticsbackend.com/raspberry-pi-arduino-serial-communication/
+
+## PERSONAL WEBSITES
+https://josephinebourghardt.github.io/MDEF/term2/05-Micro%20Challenge%20I/ 
+
