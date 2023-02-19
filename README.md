@@ -55,9 +55,8 @@ It sends a continous Ph signal as well as a trigger everytime it recognises a pr
 
 These signals are then picked up by the RaspberryPi, the Ph value is continously shown and when the button is pressed, the pump procedure starts and the measurement unit is filled with water. After that the sensors for EC (electro conducitivity) also run and displayed in the Raspberry terminal.
 
-![](https://i.imgur.com/h2t6l3Y.jpg)
-
-![](https://i.imgur.com/ldvXW1i.jpg)
+![](https://i.imgur.com/fpaTgVu.jpg)
+![](https://i.imgur.com/tK2qoZD.jpg)
 
 ## THE PROCESS
 
