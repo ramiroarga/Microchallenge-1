@@ -22,6 +22,8 @@ This repository documents a water testing tube designed and built by [Josephine]
 
 After brainstorming various ideas related to water and urban (domestic) horticulture, we landed on the idea of making a device that senses a few properties of water that are relevant for plants (temperature, electric conductivity, pH). 
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/6w54MNwgXUc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 Here is what we ended up with:
 
 
