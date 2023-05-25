@@ -1,6 +1,6 @@
 # Water sensing for urban horticulture
 
-Water explorations for Microchallenges
+Water explorations for Microchallenge 1
 
 Hey!!
 Welcome to our WATER REPO!
